@@ -1,0 +1,3 @@
+bun run 01-arrays-hashing/valid-anagram.ts
+
+./dsa.sh valid-anagram
